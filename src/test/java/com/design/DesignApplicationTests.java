@@ -1,4 +1,4 @@
-package com.hollycrm;
+package com.design;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
